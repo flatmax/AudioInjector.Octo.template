@@ -1,12 +1,12 @@
 (export (version D)
   (design
-    (source /home/flatmax/flatmax/personal.work/electronics/AudioInjector.Octo.blank.template/AudioInjector.Octo.sch)
-    (date "Wed 08 Feb 2017 16:19:29 AEDT")
+    (source /home/flatmax/flatmax/personal.work/electronics/AudioInjector.Octo.template/AudioInjector.Octo.sch)
+    (date "Wed 08 Feb 2017 16:34:58 AEDT")
     (tool "Eeschema 4.0.2+dfsg1-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
         (title "Audio Injector Octo sound card hat template")
-        (company "Flatmax Studios")
+        (company Flatmax)
         (rev)
         (date)
         (source AudioInjector.Octo.sch)
